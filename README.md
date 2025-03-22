@@ -27,13 +27,13 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/miksita/miksita.git
+git clone https://github.com/miksita/miksita.ru.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd /miksita
+cd /miksita.ru
 ```
 
 3. Install dependencies:
